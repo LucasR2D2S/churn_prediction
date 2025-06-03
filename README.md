@@ -52,6 +52,8 @@ Customer churn is one of the most important KPIs in subscription-based businesse
 ## 📂 Project Structure
 
 churn-prediction/
+├── data/
+│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv # Dados utilizados
 ├── notebooks/
 │ └── churn_prediction.ipynb # Main notebook
 ├── requirements.txt # Python dependencies
