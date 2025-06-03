@@ -1,16 +1,16 @@
-# 📉 Customer Churn Prediction
+# Customer Churn Prediction
 
 A machine learning project to predict customer churn based on behavioral and contract-related data from a telecom company. This notebook implements a full data science pipeline using Python and scikit-learn — from data cleaning and preprocessing to model training, evaluation, and interpretation.
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Customer churn is one of the most important KPIs in subscription-based businesses. Identifying customers who are likely to cancel helps companies act proactively, improve retention, and reduce losses. This project applies **logistic regression** to predict churn using a real-world dataset.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 **Telco Customer Churn Dataset**  
 - Source: [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)  
@@ -18,7 +18,7 @@ Customer churn is one of the most important KPIs in subscription-based businesse
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **Python** 3.9+
 - **Pandas**, **NumPy** for data handling
@@ -28,7 +28,7 @@ Customer churn is one of the most important KPIs in subscription-based businesse
 
 ---
 
-## 📊 ML Workflow Overview
+## ML Workflow Overview
 
 1. **Data loading** and initial exploration  
 2. **Cleaning** (null values, irrelevant columns)  
@@ -68,7 +68,7 @@ churn-prediction/
 ### Option 1: Run in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/LucasR2D2S/churn_prediction/blob/main/notebooks/churn_prediction.ipynb)
+https://colab.research.google.com/drive/1bLfSEzOM80bJ79r7oWhfraADI9OzbWxo#scrollTo=86f91110)
 
 ### Option 2: Clone locally
 
