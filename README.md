@@ -68,7 +68,7 @@ churn-prediction/
 ### Option 1: Run in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/LucasR2D2S/churn-prediction/blob/main/notebooks/churn_prediction.ipynb)
+https://colab.research.google.com/github/LucasR2D2S/churn_prediction/blob/main/notebooks/churn_prediction.ipynb)
 
 ### Option 2: Clone locally
 
